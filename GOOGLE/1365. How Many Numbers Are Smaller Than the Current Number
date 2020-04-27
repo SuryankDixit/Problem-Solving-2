@@ -1,3 +1,7 @@
+//1st solution- brute force time: O(n^2) space: O(1);
+//2nd solution- using sort and hashmap time: O(nlogn) space: O(n);
+//3rd solution(implemented)- using prefix sum: time: O(n) space: O(n);
+
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
