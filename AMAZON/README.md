@@ -1,4 +1,4 @@
-#Questions covered:
+# Questions covered:
 
 1. K closest points to Origin. 	-- using heaps.
 2. Number of islands.		   	-- using DFS.	
